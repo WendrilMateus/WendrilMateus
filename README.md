@@ -45,7 +45,7 @@
 #### Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notepad++](https://img.shields.io/badge/Notepad-E44C30?style=for-the-badge&logo=Notepad&logoColor=white)&nbsp;)
+![Notepad++](https://img.shields.io/badge/Notepad-E44C30?style=for-the-badge&logo=Notepad&logoColor=white)&nbsp;
 ![Pycharm](https://img.shields.io/badge/pycharm-4A154B?style=for-the-badge&logo=pycharm&logoColor=white)&nbsp;
 
 &nbsp;
