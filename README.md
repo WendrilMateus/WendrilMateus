@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Databases:
-![Mysql]([https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit](https://img.shields.io/badge/Mysql-316192?style=for-the-badge&logo=mysql&logoColor=white)e)&nbsp;
+![Mysql](https://img.shields.io/badge/Mysql-316192?style=for-the-badge&logo=mysql&logoColor=white)e)&nbsp;
 
 #### Workstation Tools:
 
